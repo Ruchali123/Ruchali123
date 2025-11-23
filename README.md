@@ -1,44 +1,76 @@
-## Hi, I'm Ruchali 👋
-# 🌐 Personal Portfolio — Ruchali Babulkar
+<h1 align="center">Hi there! I'm Ruchali Babulkar
+  <a href="https://github.com/Ruchali123" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
 
-Welcome to my portfolio website hosted on **GitHub Pages**.  
-This portfolio showcases my skills, projects, achievements, certifications, and professional background in the field of **Computer Engineering, Machine Learning, Data Analytics, and Web Development**.
+<h3 align="center">🎓 Computer Engineering  | 🚀 Web Developer & Data Analyst | 💻 ML Enthusiast</h3>
 
-🔗 **Live Portfolio Website:** https://ruchali123.github.io  
-📄 **Download Resume:** Available on the portfolio website
+<h3>My interests are:</h3>
 
----
-
-## 👩‍💻 About Me
-I am an enthusiastic Computer Engineering graduate with experience in **Web Development, Machine Learning, Artificial Intelligence, and Data Analytics**. Passionate about building smart digital solutions that enhance user experience and business growth.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=20C20E&random=false&width=550&lines=Web+Development;Machine+Learning+%26+Artificial+Intelligence;Data+Analytics+%26+Dashboards;SQL+%26+Database+Systems;Full+Stack+Projects)](https://git.io/typing-svg)
 
 ---
 
-## 🚀 Technologies & Skills
-- **Programming:** Python, Java, HTML, CSS  
-- **Libraries:** NumPy, Pandas, Matplotlib, Seaborn  
-- **Database:** MySQL  
-- **Tools:** Power BI, Tableau, Excel  
-- **Technologies:** Machine Learning, AI  
+## 🚀 Featured Projects
+
+- ### 🔹 **Cab Booking SQL Analysis** — https://github.com/Ruchali123/cab-booking-sql-analysis
+  🔸 This project simulates a Cab Booking System and performs SQL-based data analysis on customers, drivers, trips, bookings, and feedback.
+The goal is to derive insights into customer behavior, driver performance, revenue trends, and operational efficiency.
+
+- ### 🔹 **FinTrack: Smart Financial Analytics – Excel Project** — https://github.com/Ruchali123/FinTrack-Excel-Analytics
+  🔸 FinTrack: Smart Financial Analytics is an Excel-based project designed to convert raw financial data into actionable insights. Using Excel features like Pivot Tables, Pivot Charts, slicers, and timelines, this project builds an interactive financial dashboard to analyze sales, profits, discounts, and trends across regions, products, and time periods.
+
+- ### 🔹 **Enhancing Digital Defence Using Federated Learning Security Sandbox** — https://github.com/Ruchali123/Creating-Security-Sandbox-Using-Fedrated-Learning
+  🔸 This project is a security sandbox platform that combines Docker-based isolation with Federated Learning (FL) to detect malware and anomalies in a privacy-preserving manner.
 
 ---
 
-## 📌 Projects Included in Portfolio
-- **Cab Booking System** – Data Analysis | SQL-based analytical system
-- **FinTrack – Financial Analytics Dashboard** - Excel dashboard
-- **Security Sandbox using Federated Learning** - Secure Docker sandbox with ML-based threat detection
-- **Automated Vending Machine Software for Dispatching Pani Poori** - User Interface
-- **RASET CCOEW International Conference Website** - Website
-- **Chat Application** - Chat App
+## 🏆 Achievements & Certifications
 
+- ✔ Ongoing Master’s Certification in Data Science & Analytics with Artificial Intelligence — IT Vedant Institute.
+- ✔ Foundation in SQL — IT Vedant, Nagpur | Sep 2025   
+- ✔ Foundation in MS Excel — IT Vedant, Nagpur | Aug 2025
+- ✔ Hands-on projects using SQL, ML, Power BI, Tableau, Python, Java
+- ✔ BCG Data Science Job Simulation on Forage - March 2025
 
 ---
 
-## 📞 Contact
-📍 **Location:** Nagpur, Maharashtra  
-📧 **Email:** ruchali12babulkar@gmail.com  
-🔗 **LinkedIn:** https://www.linkedin.com/in/ruchali-babulkar-618242237/  
-💻 **GitHub:** https://github.com/Ruchali123
+## 🛠️ Technical Skills
 
+- **Languages** - Python, Java, HTML, CSS, SQL
+- **Libraries** - NumPy, Pandas, Matplotlib, Seaborn
+- **Backend / Tools** - MySQL, Power BI, Tableau, Docker
+- **Domains** - Web Development, Data Analytics, Machine Learning 
 
+---
 
+## 📊 Coding Profiles
+
+- 🔗 GitHub - https://github.com/Ruchali123
+- 🔗 HackerRank - https://www.hackerrank.com/profile/ruchali12babulk1
+ 
+---
+
+## 📫 Let's Connect!
+
+- 📧 **Email:** ruchali12babulkar@gmail.com
+- 💼 **LinkedIn:** https://www.linkedin.com/in/ruchali-babulkar-618242237
+- 🐱 **GitHub:** https://github.com/Ruchali123 
+
+---
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Ruchali123&label=Profile%20views&color=blue&style=flat" alt="Ruchali123" />
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ “Dedicated to building real-world smart solutions through code.”
+
+🚀 *Open for internships and collaboration — feel free to reach out!*  
+😊 *Let’s build something great together!*
+
+</div>
