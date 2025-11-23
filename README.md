@@ -6,6 +6,8 @@
 
 <h3 align="center">🎓 Computer Engineering  | 🚀 Web Developer & Data Analyst | 💻 ML Enthusiast</h3>
 
+# 🌐 Personal Portfolio — https://ruchali123.github.io/#projects
+
 <h3>My interests are:</h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&pause=1000&color=20C20E&random=false&width=550&lines=Web+Development;Machine+Learning+%26+Artificial+Intelligence;Data+Analytics+%26+Dashboards;SQL+%26+Database+Systems;Full+Stack+Projects)](https://git.io/typing-svg)
