@@ -14,6 +14,12 @@
 
 ---
 
+## 🎯 About Me
+
+Completed B.Tech in Computer Engineering from **MKSSS's Cummins College of Engineering for Women, Nagpur** with a CGPA of **7.94/10**. Passionate about creating innovative dashboards and data-driven analyses, and solving complex problems.
+
+---
+
 ## 🚀 Featured Projects
 
 - ### 🔹 **Cab Booking SQL Analysis** — https://github.com/Ruchali123/cab-booking-sql-analysis
