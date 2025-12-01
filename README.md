@@ -22,6 +22,9 @@ Completed B.Tech in Computer Engineering from **MKSSS's Cummins College of Engin
 
 ## 🚀 Featured Projects
 
+- ### 🔹 **DMart Sales & Operational Intelligence Dashboard** — https://github.com/Ruchali123/DMart-Sales-Operational-Dashboard
+  🔸 Leverage Power BI to analyze DMart’s historical transaction data and derive actionable insights related to sales trends, customer behavior, pricing patterns, operational efficiency, and payment performance.
+
 - ### 🔹 **Cab Booking SQL Analysis** — https://github.com/Ruchali123/cab-booking-sql-analysis
   🔸 This project simulates a Cab Booking System and performs SQL-based data analysis on customers, drivers, trips, bookings, and feedback.
 The goal is to derive insights into customer behavior, driver performance, revenue trends, and operational efficiency.
@@ -32,8 +35,6 @@ The goal is to derive insights into customer behavior, driver performance, reven
 - ### 🔹 **Enhancing Digital Defence Using Federated Learning Security Sandbox** — https://github.com/Ruchali123/Creating-Security-Sandbox-Using-Fedrated-Learning
   🔸 This project is a security sandbox platform that combines Docker-based isolation with Federated Learning (FL) to detect malware and anomalies in a privacy-preserving manner.
   
-- ### 🔹 **DMart Sales & Operational Intelligence Dashboard** — https://github.com/Ruchali123/DMart-Sales-Operational-Dashboard
-  🔸 Leverage Power BI to analyze DMart’s historical transaction data and derive actionable insights related to sales trends, customer behavior, pricing patterns, operational efficiency, and payment performance.
 
 ---
 
