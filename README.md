@@ -22,6 +22,12 @@ Completed B.Tech in Computer Engineering from **MKSSS's Cummins College of Engin
 
 ## 🚀 Featured Projects
 
+- ### 🔹 **Customer Churn Prediction Using Machine Learning ** - https://github.com/Ruchali123/Customer-Churn-Prediction-
+  🔸 Customer Churn Prediction using Machine Learning to identify customers likely to leave a telecom service based on demographic and usage data.
+
+- ### 🔹 **Automobile Data Preprocessing & Visualization** - https://github.com/Ruchali123/Automobile-Data-Preprocessing-Visualization
+  🔸 Python-based automobile data preprocessing and visualization project to analyze vehicle pricing, performance metrics, and brand trends using EDA and data visualization techniques.
+
 - ### 🔹 **DMart Sales & Operational Intelligence Dashboard** — https://github.com/Ruchali123/DMart-Sales-Operational-Dashboard
   🔸 Leverage Power BI to analyze DMart’s historical transaction data and derive actionable insights related to sales trends, customer behavior, pricing patterns, operational efficiency, and payment performance.
 
